@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import data from "unicode-emoji-json";
 import type {
-  EmojiData,
   EmojiDictionary,
   SingleEmoji,
 } from "./model/EmojiData.ts";

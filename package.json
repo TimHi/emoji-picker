@@ -1,5 +1,5 @@
 {
-  "name": "another-emoji-picker",
+  "name": "emojipicker",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -18,8 +18,7 @@
     "tailwindcss": "^4.0.15",
     "unicode-emoji-json": "^0.8.0",
     "vue": "^3.5.13",
-    "vue-clipboard3": "^2.0.0",
-    "vue-confetti-explosion": "^1.0.2"
+    "vue-clipboard3": "^2.0.0"
   },
   "devDependencies": {
     "@primevue/auto-import-resolver": "^4.3.2",
